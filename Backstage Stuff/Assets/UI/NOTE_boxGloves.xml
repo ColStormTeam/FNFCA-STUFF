@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_boxGloves.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="punch-sharp0000" x="3" y="3" width="132" height="157"/>
+	<SubTexture name="punch-small0000" x="138" y="3" width="132" height="157"/>
+</TextureAtlas>

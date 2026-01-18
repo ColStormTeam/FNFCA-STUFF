@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="volume_circle.png">
+<SubTexture name="boink0000" x="397" y="0" width="115" height="115" frameX="-14" frameY="-14" frameWidth="145" frameHeight="145" />
+<SubTexture name="boink0001" x="0" y="393" width="123" height="115" frameX="-14" frameY="-14" frameWidth="145" frameHeight="145" />
+<SubTexture name="boink0002" x="263" y="268" width="123" height="121" frameX="-14" frameY="-14" frameWidth="145" frameHeight="145" />
+<SubTexture name="boink0003" x="132" y="136" width="123" height="126" frameX="-14" frameY="-14" frameWidth="145" frameHeight="145" />
+<SubTexture name="boink0004" x="255" y="136" width="123" height="126" frameX="-14" frameY="-14" frameWidth="145" frameHeight="145" />
+<SubTexture name="boink0005" x="0" y="268" width="131" height="125" frameX="-6" frameY="-14" frameWidth="145" frameHeight="145" />
+<SubTexture name="boink0006" x="131" y="268" width="132" height="125" frameX="-5" frameY="-14" frameWidth="145" frameHeight="145" />
+<SubTexture name="boink0007" x="0" y="136" width="132" height="132" frameX="-5" frameY="-8" frameWidth="145" frameHeight="145" />
+<SubTexture name="boink0008" x="0" y="0" width="132" height="136" frameX="-5" frameY="-4" frameWidth="145" frameHeight="145" />
+<SubTexture name="boink0009" x="132" y="0" width="132" height="136" frameX="-5" frameY="-4" frameWidth="145" frameHeight="145" />
+<SubTexture name="boink0010" x="264" y="0" width="133" height="135" frameX="-5" frameY="-4" frameWidth="145" frameHeight="145" />
+</TextureAtlas>
